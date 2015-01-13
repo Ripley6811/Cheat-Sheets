@@ -4,7 +4,7 @@ Language style notes
 ##<font color="red">Style Comparison</font>
 ---
 Topic | Python | JavaScript 
----|
+---|---
 Doc Gen|[SPHINX]|[JSDoc] ([2])
 Strings|      |use `'` not `"` ([1])
 Constants|`NAMES_LIKE_THIS`|`NAMES_LIKE_THIS`
@@ -22,7 +22,7 @@ Filenames|  |`filenameslikethis.js`
 ##<font color="red">Method Equivalence</font>
 ---
 Topic | Python | JavaScript 
----|
+---|---
 Str joins| `"&".join(list)` | `list.join("&")`
 Object/Dict|`{'key': 'value'}`<br>`dict(key='value')`|`{key: 'value'}`<br>`{'key': 'value'}`
 Array/List|`['a', 'b', 'c']`|`['a', 'b', 'c']`
