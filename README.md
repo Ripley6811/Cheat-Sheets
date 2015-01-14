@@ -24,7 +24,7 @@ Block Comments| use `"""` not `'''` |
 
 
 
-##<font color="red">Method Equivalence</font>
+##<font color="red">Method Translation</font>
 ---
 
 Topic | Python | JavaScript 
