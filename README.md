@@ -1,6 +1,8 @@
 # Cheat-Sheets
 Language style notes
+
 **JavaScript** style based on [Google JavaScript Style Guide](https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
+
 **Python** style based on Guido et. al's [PEP 8 - Style Guide](https://www.python.org/dev/peps/pep-0008/)
 
 ##<font color="red">Style Comparison</font>
