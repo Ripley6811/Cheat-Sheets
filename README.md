@@ -17,7 +17,7 @@ Variables|    |`namesLikeThis`
 Classes|`NamesLikeThis` |`NamesLikeThis`
 Enums|     |`NamesLikeThis`
 Methods|`names_like_this`|`namesLikeThis`
-Non-Public|`_before_name`|`after_name_`
+Non-Public|`_before_name`|`afterName_`
 Filenames|`shortalllower.py`|`filenameslikethis.js`
 Block Comments| use `"""` not `'''` | 
 
