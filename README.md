@@ -8,7 +8,7 @@ Language style notes
 ##<font color="red">Style Comparison</font>
 ---
 Topic | Python | JavaScript 
----|---|---
+---|:---:|---
 Doc Gen|[SPHINX]| |[JSDoc] ([2])
 Strings|      |  |use `'` not `"` ([1])
 Constants|`NAMES_LIKE_THIS` |`NAMES_LIKE_THIS`
