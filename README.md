@@ -7,20 +7,20 @@ Language style notes
 
 ##<font color="red">Style Comparison</font>
 ---
-Topic | Python(PEP8) | Python(GOOG) | JavaScript 
----|---|---|---
+Topic | Python | JavaScript 
+---|---|---
 Doc Gen|[SPHINX]| |[JSDoc] ([2])
 Strings|      |  |use `'` not `"` ([1])
-Constants|`NAMES_LIKE_THIS`| `NAMES_LIKE_THIS` |`NAMES_LIKE_THIS`
-Functions|`names_like_this`| `names_like_this` |`namesLikeThis`
-Variables|    | `names_like_this` |`namesLikeThis`
-Classes|`NamesLikeThis` | `NamesLikeThis` |`NamesLikeThis`
-Enums|     |  |`NamesLikeThis`
-Methods|`names_like_this`| `names_like_this` |`namesLikeThis`
-Non-Public|`_before_name`| `_before_name` |`afterName_`
-Filenames|`shortalllower.py`|  |`filenameslikethis.js`
+Constants|`NAMES_LIKE_THIS` |`NAMES_LIKE_THIS`
+Functions|`names_like_this` |`namesLikeThis`
+Variables| `names_like_this` |`namesLikeThis`
+Classes|`NamesLikeThis` ||
+Enums|     |`NamesLikeThis`
+Methods|`names_like_this` |`namesLikeThis`
+Non-Public|`_before_name` |`afterName_`
+Filenames|`shortalllower.py`|`filenameslikethis.js`
 Block Comments| use `"""` not `'''` | 
-Package|  | `names_like_this` |  |
+Package| `names_like_this` |  |
 
 
 
