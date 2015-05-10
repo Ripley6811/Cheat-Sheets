@@ -8,13 +8,13 @@ Language style notes
 ##<font color="red">Style Comparison</font>
 ---
 Topic | Python | JavaScript 
----|:---:|---
+---|:---:|:---:
 Doc Gen|[SPHINX]| |[JSDoc] ([2])
 Strings|      |  |use `'` not `"` ([1])
 Constants|`NAMES_LIKE_THIS` |`NAMES_LIKE_THIS`
 Functions|`names_like_this` |`namesLikeThis`
 Variables| `names_like_this` |`namesLikeThis`
-Classes|`NamesLikeThis` ||
+Classes|`NamesLikeThis` |||
 Enums|     |`NamesLikeThis`
 Methods|`names_like_this` |`namesLikeThis`
 Non-Public|`_before_name` |`afterName_`
